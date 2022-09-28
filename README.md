@@ -1,4 +1,6 @@
 # p53Cinema-custom-event
+p53Cinema: https://github.com/balvahal/p53CinemaManual
+
 ## Overview of Work
 ![poster](https://user-images.githubusercontent.com/58375851/192012480-cccdbbc2-1a3b-428f-8b50-b260095861a9.jpg)
 
